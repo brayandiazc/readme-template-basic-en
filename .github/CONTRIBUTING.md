@@ -1,43 +1,42 @@
-# 🖇️ Guía de Contribución
+# 🖇️ Contributing Guide
 
-¡Gracias por considerar contribuir a este proyecto!
+Thank you for considering contributing to this project!
 
-## 🚀 Cómo empezar
+## 🚀 Getting Started
 
-1. **Haz un fork del repositorio**
-2. **Clona tu fork** en tu máquina local:
+1. **Fork the repository**
+2. **Clone your fork** to your local machine:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
    ```
-3. **Crea una rama para tu cambio**:
+3. **Create a new branch** for your feature:
    ```bash
-   git checkout -b feature/nombre-de-tu-cambio
+   git checkout -b feature/your-feature-name
    ```
-4. **Realiza tus cambios** y haz commit:
+4. **Make your changes** and commit them:
    ```bash
-   git commit -m "Agrega nueva funcionalidad"
+   git commit -m "Add your feature"
    ```
-5. **Haz push a tu rama**:
+5. **Push your branch**:
    ```bash
-   git push origin feature/nombre-de-tu-cambio
+   git push origin feature/your-feature-name
    ```
-6. **Abre un Pull Request**
+6. **Open a Pull Request**
 
-## ✅ Requisitos del código
+## ✅ Code Requirements
 
-- Sigue el estilo de código definido en el proyecto (`black`, `flake8`)
-- Escribe pruebas si agregas o modificas funciones
-- Asegúrate de que las pruebas pasen antes de hacer PR:
+- Follow the code style guidelines (`black`, `flake8`)
+- Write tests for any new features or changes
+- Ensure all tests pass before submitting:
+  ```bash
+  pytest
+  ```
 
-```bash
-pytest
-```
+## 🤝 Best Practices
 
-## 🤝 Buenas prácticas
+- Keep your changes focused (one feature per PR)
+- Use clear and descriptive commit messages
+- Be respectful and open to feedback
 
-- Mantén tus cambios enfocados (una sola funcionalidad por PR)
-- Describe claramente qué haces en tus commits y PRs
-- Sé respetuoso con los comentarios y sugerencias del equipo
-
-¡Tu ayuda es bienvenida! 🙌
+We appreciate your contributions! 🙌

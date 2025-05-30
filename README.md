@@ -1,26 +1,32 @@
-# 📌 Nombre del Proyecto
+# 📌 Project Name
 
-Descripción breve y directa de lo que hace el proyecto.
+A short and clear description of what the project does.
 
-Proyecto basado en [Python](https://www.python.org/), [Django](https://www.djangoproject.com/) y [PostgreSQL](https://www.postgresql.org/). Incluye autenticación, manejo de datos y funcionalidades CRUD.
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-95%25-blue)
 
-## 🖼️ Vista Previa
+## 🧠 Overview
 
-| Inicio                | Funcionalidad               |
+Project built with [Python](https://www.python.org/), [Django](https://www.djangoproject.com/), and [PostgreSQL](https://www.postgresql.org/).  
+Includes authentication, data management, and CRUD functionality.
+
+## 🖼️ Preview
+
+| Home                  | Feature                     |
 | --------------------- | --------------------------- |
 | ![main](img/main.png) | ![feature](img/feature.gif) |
 
-## ⚙️ Requisitos
+## ⚙️ Requirements
 
 - Python 3.10+
 - Django 4.2
 - PostgreSQL 13+
 
-## 🚀 Instalación
+## 🚀 Installation
 
 ```bash
-git clone https://github.com/usuario/proyecto.git
-cd proyecto
+git clone https://github.com/your-user/project.git
+cd project
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env
@@ -31,35 +37,35 @@ python manage.py runserver
 ## 🧪 Tests
 
 ```bash
-pytest        # Pruebas funcionales
-flake8 .      # Estilo de código
-black --check .  # Formato
+pytest          # Functional tests
+flake8 .        # Code style
+black --check . # Formatting
 ```
 
-## 🔐 Acceso de Ejemplo
+## 🔐 Sample Access
 
-**Admin:**
+**Admin:**  
 📧 admin@mail.com — 🔑 Abc123#
 
-**Invitado:**
+**Guest:**  
 📧 user@mail.com — 🔑 Abc123#
 
 ## 🛣️ Roadmap
 
-- [ ] Login con redes sociales
-- [ ] API pública
-- [ ] Dashboard mejorado
+- [ ] Social login
+- [ ] Public API
+- [ ] Improved dashboard
 
-## 🖇️ Contribuye
+## 🖇️ Contributing
 
 ```bash
-# Fork → Crea rama → Cambios → Commit → Pull Request
+# Fork → Create branch → Make changes → Commit → Pull Request
 ```
 
-Lee [CONTRIBUTING.md](.github/CONTRIBUTING.md) para más detalles.
+See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for more info.
 
-## 📄 Licencia
+## 📄 License
 
-MIT — ver [LICENSE](LICENSE.md)
+MIT — see [LICENSE](LICENSE.md)
 
-⌨️ con ❤️ por [Brayan Diaz C](https://github.com/brayandiazc)
+⌨️ with ❤️ by [Brayan Diaz C](https://github.com/brayandiazc)

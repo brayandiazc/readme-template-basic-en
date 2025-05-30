@@ -1,27 +1,25 @@
-# .github/CODE_OF_CONDUCT.md
+# 📜 Code of Conduct
 
-# 📜 Código de Conducta
+This project adheres to the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) Code of Conduct.
 
-Este proyecto adopta el [Contributor Covenant](https://www.contributor-covenant.org/es/version/2/1/code_of_conduct/) versión 2.1 como base para fomentar una comunidad abierta y acogedora.
+## 📌 Our Pledge
 
-## 📌 Nuestra promesa
+We as members, contributors, and leaders pledge to make participation in our project and community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-Nos comprometemos a hacer que la participación en nuestro proyecto sea una experiencia libre de acoso para todos, sin importar edad, tamaño corporal, discapacidad, etnia, características sexuales, identidad y expresión de género, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, religión o identidad u orientación sexual.
+## 🧭 Our Standards
 
-## 🧭 Nuestro estándar
+Examples of behavior that contributes to a positive environment:
 
-Ejemplos de comportamiento que contribuyen a crear un entorno positivo:
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
 
-- Uso de un lenguaje amable e inclusivo
-- Respeto a diferentes puntos de vista y experiencias
-- Aceptación de críticas constructivas con gracia
+Unacceptable behavior includes:
 
-Comportamientos inaceptables:
+- Trolling, insulting or derogatory comments
+- Public or private harassment
+- Publishing others’ private information without explicit permission
 
-- Uso de lenguaje o imágenes sexualizadas
-- Comentarios insultantes o despectivos
-- Acoso público o privado
+## 🛠 Enforcement
 
-## 🛠 Aplicación
-
-Los casos de comportamiento abusivo o inaceptable pueden ser reportados al equipo del proyecto. Todas las quejas serán revisadas e investigadas de manera apropiada.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team. All complaints will be reviewed and investigated.
